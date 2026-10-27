@@ -215,8 +215,8 @@ h1 {
 }
 
 .photo {
-	aspect-ratio: 4/5;
-	border-radius: var(--r);
+	aspect-ratio: 1;
+	border-radius: 50%;
 	background: var(--surface);
 	border: 1px solid var(--line);
 	overflow: hidden;

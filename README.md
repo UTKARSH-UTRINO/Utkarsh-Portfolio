@@ -2,7 +2,7 @@
 
 Responsive portfolio with project search, light/dark mode and an API-powered chatbot.
 
-**Live website:** https://YOUR-VERCEL-URL.vercel.app
+**Live website:** https://utkarsh-portfolio-utrino.vercel.app/
 
 ## Technologies
 HTML, CSS, JavaScript, Vercel Serverless Functions, Groq API
