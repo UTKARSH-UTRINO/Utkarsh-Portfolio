@@ -1,11 +1,11 @@
 // ===== Project data (edit repo/live links to match your real GitHub repos) =====
-const GH = "https://github.com/UTRINO-UTKARSH/";
+const GH = "https://github.com/UTKARSH-UTRINO/";
 const projects = [
-  {title:"Python Programs Collection",desc:"Factorial, Fibonacci and structure-to-dictionary conversion programs, with an updated README.",tech:["Python","Git","GitHub"],repo:GH+"python-programs",live:""},
+  {title:"Python Programs Collection",desc:"Factorial, Fibonacci and structure-to-dictionary conversion programs, with an updated README.",tech:["Python","Git","GitHub"],repo:GH+"Python-basics-25bcon1849",live:""},
   {title:"Messy Python Code Improvement",desc:"A messy Python script cleaned up and improved with AI assistance: clearer names, structure and comments.",tech:["Python","Cursor AI","Refactoring"],repo:GH+"messy-python-improvement",live:""},
   {title:"Bug Fixing Using Cursor AI",desc:"A buggy program found, explained and corrected using Cursor AI.",tech:["Python","Cursor AI","Debugging"],repo:GH+"bug-fixing-cursor",live:""},
-  {title:"Interactive Quiz Application",desc:"A browser quiz app with questions, answer checking and a final score.",tech:["HTML","CSS","JavaScript","Quiz"],repo:GH+"quiz-app",live:""},
-  {title:"Book Reading List Application",desc:"Add books to a reading list and track what you have read. The README includes the deployed link.",tech:["HTML","CSS","JavaScript","Vercel","Book"],repo:GH+"book-reading-list",live:""}
+  {title:"Interactive Quiz Application",desc:"A browser quiz app with questions, answer checking and a final score.",tech:["HTML","CSS","JavaScript","Quiz"],repo:GH+"Interactive-Quiz",live:"https://utkarsh-utrino.github.io/Interactive-Quiz/"},
+  {title:"Book Reading List Application",desc:"Add books to a reading list and track what you have read. The README includes the deployed link.",tech:["HTML","CSS","JavaScript","Vercel","Book"],repo:GH+"Book",live:"https://book-seven-lime.vercel.app/"}
 ];
 
 const $ = s => document.querySelector(s);
